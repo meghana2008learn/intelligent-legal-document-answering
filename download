@@ -1,0 +1,18 @@
+# ==============================================================================
+# Intelligent Legal Document Answering - Environment Configuration
+# ==============================================================================
+# Set your API Key below.
+# By default, this project is configured to work with Groq (Fast & Free tier available)
+# or OpenAI / any OpenAI-compatible endpoint.
+#
+# Free Groq Key: https://console.groq.com/keys
+# OpenAI Key: https://platform.openai.com/api-keys
+# ==============================================================================
+
+LLM_API_KEY=your_api_key_here
+
+# API Endpoint (Groq default, or change to https://api.openai.com/v1/chat/completions)
+LLM_API_URL=https://api.groq.com/openai/v1/chat/completions
+
+# Model Name (e.g., llama-3.1-8b-instant, gpt-4o-mini, mixtral-8x7b-32768)
+LLM_MODEL=llama-3.1-8b-instant

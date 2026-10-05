@@ -1,0 +1,20 @@
+# Environment variables and API keys
+.env
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Vector Database storage
+chroma_db/
+
+# Streamlit config / cache
+.streamlit/
+*.log

@@ -1,0 +1,117 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R 5 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 9 0 R >> >> >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 9 0 R >> >> >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 8 0 R /Resources << /Font << /F1 9 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 1251 >>
+stream
+BT
+/F1 11 Tf
+14.5 TL
+50 740 Td
+(STANDARD MASTER SERVICES AND NON-DISCLOSURE AGREEMENT) '
+(Document Reference: AGY-LEGAL-2026-001) '
+T*
+(This Agreement is entered into on this 1st day of January, 2026, by and between:) '
+(Party A: Apex Digital Solutions Inc., a Delaware corporation \('Company'\), and) '
+(Party B: Quantum Logistics LLC, a California limited liability company \('Contractor'\).) '
+T*
+(RECITALS:) '
+(WHEREAS, Company wishes to engage Contractor for cloud infrastructure consulting;) '
+(WHEREAS, Contractor possesses specialized engineering and legal compliance expertise;) '
+(NOW, THEREFORE, the parties mutually covenant and agree as follows:) '
+T*
+(SECTION 1: PURPOSE AND SCOPE OF AGREEMENT) '
+(1.1 Scope of Services: Contractor agrees to provide cloud architecture auditing, security reviews,) '
+(and data compliance monitoring as outlined in Statement of Work \(SOW\) Exhibit A.) '
+(1.2 Professional Standards: All services shall be performed in accordance with highest) '
+(industry standards and applicable data protection regulations.) '
+(1.3 Independent Contractor Status: The relationship between the parties is that of independent) '
+(contractors. Nothing herein shall create an employer-employee or agency relationship.) '
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 1275 >>
+stream
+BT
+/F1 11 Tf
+14.5 TL
+50 740 Td
+(SECTION 2: RESPONSIBILITIES AND IMPORTANT OBLIGATIONS) '
+(2.1 Company Responsibilities: Company shall provide Contractor with timely access to technical) '
+(specifications, project repositories, and necessary staging cloud environments.) '
+(2.2 Contractor Obligations: Contractor shall maintain strict records, deliver weekly audit milestones,) '
+(and immediately notify Company of any discovered security vulnerabilities within 24 hours.) '
+T*
+(SECTION 3: CONFIDENTIALITY AND NON-DISCLOSURE) '
+(3.1 Confidential Information: Means all non-public technical, business, financial, or legal) '
+(information disclosed by either party during the term of this Agreement.) '
+(3.2 Non-Disclosure Obligation: Each party agrees to hold all Confidential Information in strict) '
+(confidence and not disclose it to third parties for a period of five \(5\) years following termination.) '
+T*
+(SECTION 4: TERM AND DURATION OF AGREEMENT) '
+(4.1 Duration: This Agreement shall commence on January 1, 2026, and shall remain in full force) '
+(and effect for a duration of twenty-four \(24\) months until December 31, 2027, unless terminated earlier.) '
+(4.2 Renewal: The Agreement may be renewed for successive one-year terms upon mutual written consent.) '
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 1277 >>
+stream
+BT
+/F1 11 Tf
+14.5 TL
+50 740 Td
+(SECTION 5: TERMINATION CONDITIONS) '
+(5.1 Termination for Convenience: Either party may terminate this Agreement without cause by giving) '
+(at least thirty \(30\) days prior written notice to the other party.) '
+(5.2 Termination for Cause: If either party commits a material breach of any provision,) '
+(the non-breaching party may terminate immediately if such breach is not cured within fifteen \(15\) days.) '
+T*
+(SECTION 6: BREACH AND PENALTIES) '
+(6.1 Consequences of Breach: In the event of an uncured material breach, the breaching party) '
+(shall be liable for direct damages arising out of the failure to perform.) '
+(6.2 Liquidated Damages and Penalties: If Contractor breaches Section 3 \(Confidentiality\) or unauthorizedly) '
+(discloses proprietary source code, Contractor shall pay a liquidated damages penalty of $50,000 per violation.) '
+(6.3 Late Payment Penalty: Overdue invoices shall accrue interest at the rate of 1.5% per month.) '
+T*
+(SECTION 7: GOVERNING LAW AND DISPUTE RESOLUTION) '
+(7.1 Governing Law: This Agreement shall be governed by and construed under the laws of the State of Delaware.) '
+(7.2 Arbitration: Any dispute arising out of this Agreement shall be settled by binding arbitration in Wilmington.) '
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000253 00000 n 
+0000000379 00000 n 
+0000000505 00000 n 
+0000001807 00000 n 
+0000003133 00000 n 
+0000004461 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+4531
+%%EOF
